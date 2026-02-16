@@ -1,0 +1,40 @@
+name: Pack Request
+description: Request a new sound pack for OpenPeon
+title: "[Request] "
+labels: ["pack-request"]
+body:
+  - type: input
+    id: pack-name
+    attributes:
+      label: Pack Name
+      description: What character or theme should this pack be based on?
+      placeholder: "e.g., Cortana, HAL 9000, R2-D2"
+    validations:
+      required: true
+  - type: input
+    id: franchise
+    attributes:
+      label: Character / Franchise
+      description: What game, movie, or show is this from?
+      placeholder: "e.g., Halo, 2001: A Space Odyssey, Star Wars"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this pack?
+      description: Why would this make a great coding companion sound pack?
+      placeholder: Describe what makes this character's sounds memorable or useful for coding feedback...
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example sounds
+      description: List some iconic sounds or voice lines that could map to coding events.
+      placeholder: |
+        - task_complete: "Job's done!"
+        - error: *alarm noise*
+        - input_needed: "What do you need?"
+    validations:
+      required: false
