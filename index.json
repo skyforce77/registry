@@ -123,9 +123,9 @@
     },
     {
       "name": "ae_qianyu",
-      "display_name": "\u660e\u65e5\u65b9\u821f:\u7ec8\u672b\u5730 \u9648\u5343\u8bed",
+      "display_name": "明日方舟:终末地 陈千语",
       "version": "1.0.4",
-      "description": "\u660e\u65e5\u65b9\u821f:\u7ec8\u672b\u5730 \u9648\u5343\u8bed \u8bed\u97f3\u5305",
+      "description": "明日方舟:终末地 陈千语 语音包",
       "author": {
         "name": "LiRiu",
         "github": "LiRiu"
@@ -149,7 +149,7 @@
       "manifest_sha256": "50fd5866b2f025deba93723ceae9aa77ef88302efa7915711d881222c391d67b",
       "tags": [
         "gaming",
-        "\u660e\u65e5\u65b9\u821f:\u7ec8\u672b\u5730",
+        "明日方舟:终末地",
         "arknights:endfield"
       ],
       "preview_sounds": [
@@ -318,6 +318,46 @@
       ],
       "added": "2026-02-12",
       "updated": "2026-02-12"
+    },
+    {
+      "name": "arnold",
+      "display_name": "Arnold Schwarzenegger",
+      "version": "1.0.0",
+      "description": "Iconic Arnold Schwarzenegger movie one-liners. Your terminal is now the Governator.",
+      "author": {
+        "name": "mmichael0413",
+        "github": "mmichael0413"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 15,
+      "total_size_bytes": 1131042,
+      "source_repo": "mmichael0413/openpeon-arnold",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "e2d59741a3c5b3dba64e923b90652dbcbf793f92a7d1452bfe4216fcfda618c6",
+      "tags": [
+        "movies",
+        "action",
+        "arnold",
+        "terminator"
+      ],
+      "preview_sounds": [
+        "ill-be-back.mp3",
+        "hasta-la-vista-baby.mp3"
+      ],
+      "added": "2026-02-17",
+      "updated": "2026-02-17"
     },
     {
       "name": "brewmaster_ru",
@@ -1037,16 +1077,16 @@
       "display_name": "D.Va Overwatch",
       "version": "1.0.0",
       "description": "D.Va voice lines from Overwatch - includes Korean and English lines.",
-      "author": { 
-        "name": "Leo", 
-        "github": "leo-rutter" 
+      "author": {
+        "name": "Leo",
+        "github": "leo-rutter"
       },
       "trust_tier": "community",
       "categories": [
-        "session.start", 
-        "task.complete", 
-        "task.acknowledge", 
-        "task.error", 
+        "session.start",
+        "task.complete",
+        "task.acknowledge",
+        "task.error",
         "input.required"
       ],
       "language": "en",
@@ -1062,7 +1102,11 @@
         "Blizzard",
         "Overwatch"
       ],
-      "preview_sounds": ["dva-online.mp3", "winky-face.mp3", "gg.mp3"],
+      "preview_sounds": [
+        "dva-online.mp3",
+        "winky-face.mp3",
+        "gg.mp3"
+      ],
       "added": "2026-02-17",
       "updated": "2026-02-17"
     },
@@ -1378,9 +1422,9 @@
     },
     {
       "name": "peasant_cz",
-      "display_name": "Lidsk\u00fd roln\u00edk (CZ)",
+      "display_name": "Lidský rolník (CZ)",
       "version": "1.0.0",
-      "description": "Lidsk\u00fd roln\u00edk (CZ) sound pack from Warcraft III",
+      "description": "Lidský rolník (CZ) sound pack from Warcraft III",
       "author": {
         "name": "vojtabiberle",
         "github": "vojtabiberle"
@@ -1578,9 +1622,9 @@
     },
     {
       "name": "peon_cz",
-      "display_name": "Or\u010d\u00ed pe\u00f3n (CZ)",
+      "display_name": "Orčí peón (CZ)",
       "version": "1.0.0",
-      "description": "Or\u010d\u00ed pe\u00f3n (CZ) sound pack from Warcraft III",
+      "description": "Orčí peón (CZ) sound pack from Warcraft III",
       "author": {
         "name": "vojtabiberle",
         "github": "vojtabiberle"
@@ -1820,7 +1864,7 @@
       "name": "protoss",
       "display_name": "Protoss (StarCraft)",
       "version": "1.0.0",
-      "description": "StarCraft Protoss voice lines and sound effects \u2014 en taro Adun!",
+      "description": "StarCraft Protoss voice lines and sound effects — en taro Adun!",
       "author": {
         "name": "Cody Born",
         "github": "codyborn"
@@ -2441,7 +2485,7 @@
       "name": "silicon_valley",
       "display_name": "Silicon Valley",
       "version": "2.2.0",
-      "description": "Quotes from Silicon Valley \u2014 Erlich, Gilfoyle, Russ Hanneman, Jian Yang. English + Russian dubbed by \u00abКубик в кубике\u00bb (59 clips with swearing)",
+      "description": "Quotes from Silicon Valley — Erlich, Gilfoyle, Russ Hanneman, Jian Yang. English + Russian dubbed by «Кубик в кубике» (59 clips with swearing)",
       "author": {
         "name": "rustam",
         "github": "fortunto2"
