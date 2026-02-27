@@ -3061,6 +3061,47 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "professor-layton",
+      "display_name": "Professor Layton",
+      "version": "1.0.0",
+      "description": "Every puzzle has an answer! SFX from Professor Layton and the Curious Village by Level-5.",
+      "author": {
+        "name": "Skyforce77",
+        "github": "skyforce77"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 6,
+      "total_size_bytes": 297416,
+      "source_repo": "skyforce77/openpeon-professor-layton",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "738a6a554ccbe514d5aed07d9d1e1dc02ea68f938c4694edd93a9f2604d46529",
+      "tags": [
+        "puzzle",
+        "gentleman",
+        "nintendo",
+        "level5",
+        "game",
+        "mystery"
+      ],
+      "preview_sounds": [
+        "sounds/puzzle_solved.mp3",
+        "sounds/hint_coin.mp3"
+      ],
+      "added": "2026-02-26",
+      "updated": "2026-02-26"
+    },
+    {
       "name": "protoss",
       "display_name": "Protoss (StarCraft)",
       "version": "1.0.0",
